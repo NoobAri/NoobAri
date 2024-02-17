@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @NoobAri
-- 👀 I’m interested in Machine Learning, AI, and Math!
-- 🌱 I’m currently learning sklearn, keras, statistical learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @NoobAri
+
 
 <!---
 NoobAri/NoobAri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
